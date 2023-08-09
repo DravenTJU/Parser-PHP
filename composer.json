@@ -1,5 +1,5 @@
 {
-    "name": "draven/useragent-parser",
+    "name": "draventju/useragent-parser",
 
     "description": "Useragent sniffing library for PHP",
     "keywords": ["useragent","browser","sniffing", "ua"],
